@@ -1,0 +1,3 @@
+[BACKSPACE]	
+
+My password is 1234@myhome^
